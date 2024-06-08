@@ -1,1 +1,1 @@
-# hajj-q
+# Hajj-Q-Alert redirect path
